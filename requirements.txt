@@ -1,0 +1,11 @@
+langchain
+openai
+chromadb
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+tiktoken
+pypdf
+jupyter
+ipykernel
