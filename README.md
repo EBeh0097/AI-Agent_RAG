@@ -61,13 +61,6 @@ cd agentic-rag-document-intelligence
 pip install -r requirements.txt
 ```
 
-## Recommended Environment Variables
-
-```bash
-OPENAI_API_KEY=your_api_key
-GROQ_API_KEY=your_api_key
-```
-
 ## Why This Project Matters
 
 This project demonstrates practical experience building scalable AI retrieval systems capable of:
